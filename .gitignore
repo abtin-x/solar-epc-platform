@@ -7,4 +7,14 @@ server/uploads/
 client/node_modules/
 server/node_modules/
 
+# Electron/package outputs
+client/release
+client/release/
+release
+release/
+out
 out/
+dist-electron
+dist-electron/
+*.exe
+*.zip
